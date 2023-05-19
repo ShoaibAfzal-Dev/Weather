@@ -1,0 +1,68 @@
+
+.center-page {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.my-app {
+ width: 100%;
+  padding: 20px;
+  background-color: #f1f1f1;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.first-display {
+  text-align: center;
+}
+
+.name-time {
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.icon-weather {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.icon-weather img {
+  width: 100px;
+  height: 100px;
+  margin-left: 10px;
+}.details {
+  margin-top: 20px;
+}
+
+.center-details {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.temp-h {
+  flex: 1;
+  text-align: center;
+  margin: 0 10px;
+}
+
+.temp-h h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.temp-h p {
+  margin-top: 5px;
+}
+
+hr {
+  display: none;
+}
